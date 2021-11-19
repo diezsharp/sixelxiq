@@ -18,10 +18,10 @@ A recreation of the Mario Kart 64 beta called Super Mario Kart R (R for Renders)
 
 <div align="center">
   <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swipley&layout=compact&theme=dracula" width="450" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swipley&layout=compact&theme=dracula" width="350" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swipley&layout=compact&theme=dracula" width="500" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Swipley&layout=compact&theme=dracula" width="400" />
 <div style="display: inline_block"><br>
   
   ##
