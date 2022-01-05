@@ -5,7 +5,7 @@
 
 - My name is Swipley
 - I develop projects like the beta of [Super Mario 64](https://github.com/) and [Super Mario Kart R](https://github.com/)
-- I can make some little code for Super Mario 64 rom hack like [HMS TO GEO](https://github.com/Swipley/convert_hms_to_geo) This simple header converts leak HMS (hierarchy map sequences) data to SM64 decomp GeoLayouts.
+- I can make some little code for Super Mario 64 rom hack like [HMS TO GEO](https://github.com/Swipley/convert_hms_to_geo) This simple header converts leak HMS (hierarchy map sequences) data to SM64 decomp GeoLayouts or code some Discord tools (USE IT AT YOUR OWN RISK)
 
 ## Projects I'm involved in
 - [Super Mario 64 Beta](https://github.com/)
