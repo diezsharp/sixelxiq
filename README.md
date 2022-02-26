@@ -14,7 +14,6 @@ A Super Mario 64 ROM hack which is the recreation of the Shoshinkai'95 version w
 A recreation of the Mario Kart 64 beta called Super Mario Kart R (R for Renders) which brings good old codes from gigaleak. No previews
 - [CAIMEO REMAKE (Private)](https://github.com/Swipley/CAIMEO)
 This is a remake of a legend urban of an A.I(Artificial Intelligence) named CAIMEO
-- [POLYBIUS REMAKE (Private)](https://github.com/Swipley/POLYBIUS)
 
 ##
 
