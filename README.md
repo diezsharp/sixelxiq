@@ -1,11 +1,11 @@
 # Welcome to the **Swipley** GitHub page! 👋
 
-[![Discord](https://img.shields.io/discord/727634138600833026?label=Hivernia%20Minecraft%20Server&style=for-the-badge)](https://discord.gg/nRMGe6s7fM)
-[![Discord](https://img.shields.io/discord/894376728124878859?label=Beta%20Hack%20Project&style=for-the-badge)](https://discord.gg/W2Hsvm23na)
+[![Discord](https://img.shields.io/discord/727634138600833026?label=Hivernia%20Minecraft%20Server&style=for-the-badge)](https://discord.gg/hivernia)
+[![Discord](https://img.shields.io/discord/894376728124878859?label=Beta%20Hack%20Project&style=for-the-badge)](https://discord.gg/KQ25q3FM7N)
 
 - My name is Swipley
-- I develop projects like the beta of [Super Mario 64](https://github.com/) and [Super Mario Kart R](https://github.com/)
-- I can make some little code for Super Mario 64 rom hack like [HMS TO GEO](https://github.com/Swipley/convert_hms_to_geo) This simple header converts leak HMS (hierarchy map sequences) data to SM64 decomp GeoLayouts or code some Discord tools (USE IT AT YOUR OWN RISK)
+- I develop projects like the beta of [Super Mario 64](https://github.com/)
+- I can make some little code for Super Mario 64 rom hack like [HMS TO GEO](https://github.com/Swipley/convert_hms_to_geo) This simple header converts leak HMS (hierarchy map sequences) data to SM64 decomp GeoLayouts or code some 3DS Hombrew apps like [My Friend Peppa Pig 3DS Port](https://github.com/)
 
 ## Projects I'm involved in
 - [Super Mario 64 Beta](https://github.com/)
