@@ -4,11 +4,11 @@
 [![Discord](https://img.shields.io/discord/894376728124878859?label=Beta%20Hack%20Project&style=for-the-badge)](https://discord.gg/KQ25q3FM7N)
 
 - My name is Swipley
-- I develop projects like the beta of [Super Mario 64](https://github.com/)
+- I develop projects like the beta of [Super Mario 64](https://github.com/JoshTheBosh06/Nvision64)
 - I can make some little code for Super Mario 64 rom hack like [HMS TO GEO](https://github.com/Swipley/convert_hms_to_geo) This simple header converts leak HMS (hierarchy map sequences) data to SM64 decomp GeoLayouts or code some 3DS Hombrew apps like [My Friend Peppa Pig 3DS Port](https://github.com/)
 
 ## Projects I'm involved in
-- [Super Mario 64 Beta](https://github.com/)
+- [Super Mario 64 Beta](https://github.com/JoshTheBosh06/Nvision64)
 A Super Mario 64 ROM hack which is the recreation of the Shoshinkai'95 version which brings a lot of content from the beta versions of Super Mario 64 which has been lost in time
 A recreation of the Mario Kart 64 beta called Super Mario Kart R (R for Renders) which brings good old codes from gigaleak. No previews
 - [My Friend Peppa Pig 3DS Port](https://github.com/Swipley/CAIMEO)
