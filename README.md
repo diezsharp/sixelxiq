@@ -9,11 +9,10 @@
 
 ## Projects I'm involved in
 - [Super Mario 64 Beta](https://github.com/)
-A Super Mario 64 ROM hack which is the recreation of the Shoshinkai'95 version which brings a lot of content from the beta versions of Super Mario 64 which has been lost in time here are some previews [Preview 1](https://youtu.be/JIK3ZkndXMM) & [Preview 2](https://youtu.be/33fHR9LtmV4)
-- [Super Mario Kart R](https://github.com/)
+A Super Mario 64 ROM hack which is the recreation of the Shoshinkai'95 version which brings a lot of content from the beta versions of Super Mario 64 which has been lost in time
 A recreation of the Mario Kart 64 beta called Super Mario Kart R (R for Renders) which brings good old codes from gigaleak. No previews
-- [CAIMEO REMAKE (Private)](https://github.com/Swipley/CAIMEO)
-This is a remake of a legend urban of an A.I(Artificial Intelligence) named CAIMEO
+- [My Friend Peppa Pig 3DS Port](https://github.com/Swipley/CAIMEO)
+My Friend Peppa Pig 3DS Port
 
 ##
 
