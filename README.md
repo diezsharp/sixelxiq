@@ -1,7 +1,7 @@
 # Welcome to the **Swipley** GitHub page! 👋
 
 [![Discord](https://img.shields.io/discord/912021532350496819?label=Hivernia%20Minecraft%20Server&style=for-the-badge)](https://discord.gg/hivernia)
-[![Discord](https://img.shields.io/discord/984286387673108541?label=Beta%20Hack%20Project&style=for-the-badge)](https://discord.gg/KQ25q3FM7N)
+[![Discord](https://img.shields.io/discord/984286387673108541?label=Revival%20Project&style=for-the-badge)](https://discord.gg/KQ25q3FM7N)
 
 - My name is Swipley
 - I develop projects like the beta of [Super Mario 64](https://github.com/JoshTheBosh06/Nvision64)
