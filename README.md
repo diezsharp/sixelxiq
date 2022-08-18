@@ -10,8 +10,8 @@
 ## Projects I'm involved in
 - [Super Mario 64 Beta](https://github.com/JoshTheBosh06/Nvision64)
 A Super Mario 64 ROM hack which is the recreation of the Shoshinkai'95 version which brings a lot of content from the beta versions of Super Mario 64 which has been lost in time
-- [My Friend Peppa Pig 3DS Port](https://github.com/Revival-Nostalgia/MFPP-3DS)
-My Friend Peppa Pig 3DS Port
+- [Baldi's Basic 3DS Port](https://github.com/Revival-Nostalgia/MFPP-3DS)
+A 3DS Port of the game Baldi's Basic
 
 ##
 
