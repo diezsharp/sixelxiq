@@ -1,5 +1,5 @@
 <a align="center" href="https://github.com/Entys">
-  <img src="https://user-images.githubusercontent.com/89121771/204166401-68405b15-c546-4419-adcf-206c39ee49f3.png" />
+  <img src="https://user-images.githubusercontent.com/89121771/205466245-46aa594a-4ed9-4364-8745-5689dd895c9e.png" />
 </a>
 
 # Where you can find me?
