@@ -4,7 +4,7 @@ Burp
 ### Projects
 - [🍄 ULTRA 64 MARIO BROTHERS](https://github.com) A recreation of the prototype of Super Mario 64.
 - [🏹 Wild Prototype](https://github.com) A recreation of the prototype of The Legend of Zelda: Breath of The Wild.
-- [🥊 Dragon King](https://github.com) -   A recreation of the prototype of Super Smash Bros.
+- [🔪 Better Among Us VR](https://github.com/swipley/BetterAmongUsVR) - Among Us VR, but Better!
 - [🌱 Plants vs. Zombies Decompilation](https://github.com/PvZDecomp) - A Plants vs. Zombies Decompilation with multiples versions
 - [❄️ Hivernia](https://github.com/HiverniaFrance) - Hivernia est actuellement en développement, notre but est d'innover dans le monde des mini-jeux.
 ### Languages
