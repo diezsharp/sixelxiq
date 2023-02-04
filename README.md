@@ -7,7 +7,7 @@
 ### Projects
 - [🍄 ULTRA 64 MARIO BROTHERS](https://github.com) A recreation of the prototype of Super Mario 64.
 - [🏹 Wild Prototype](https://github.com) A recreation of the prototype of The Legend of Zelda: Breath of The Wild. 
-- [🌱 Plants vs. Zombies Decompilation](https://github.com/PvZDecomp) - A Plants vs. Zombies Decompilation with multiples versions img alt="C" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> 
+- [🌱 Plants vs. Zombies Decompilation](https://github.com/PvZDecomp) - A Plants vs. Zombies Decompilation with multiples versions.
 - [❄️ Hivernia](https://github.com/HiverniaFrance) - Hivernia est actuellement en développement, notre but est d'innover dans le monde des mini-jeux.
 ### 🧰 Languages
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
