@@ -7,11 +7,11 @@
 - 只是一个喜欢《JoJo 的奇妙冒險》和《植物大战僵尸》的傻孩子，想做一些项目，但他没有任何动力。
 
 ### • 💻 Projects
-├─ ‎‎‎‎ **[🤖 CAIMEO AI](https://github.com/swipley/CAIMEO)** - A recreation of an urban legend of an artificial intelligence that can be accessed via the deep web.
+├ ‎‎‎‎ **[🤖 CAIMEO AI](https://github.com/swipley/CAIMEO)** - A recreation of an urban legend of an artificial intelligence that can be accessed via the deep web.
 </br>
-├─ ‎‎‎‎ **[🌱 Plants vs. Zombies Decompilation](https://github.com/PvZDecomp)** - A Plants vs. Zombies Decompilation with multiples versions.
+├ ‎‎‎‎ **[🌱 Plants vs. Zombies Decompilation](https://github.com/PvZDecomp)** - A Plants vs. Zombies Decompilation with multiples versions.
 </br>
-└─ ‎‎‎‎ **[❄️ Hivernia](https://github.com/HiverniaFrance)** - Hivernia est actuellement en développement, notre but est d'innover dans le monde des mini-jeux.
+└ ‎‎‎‎ **[❄️ Hivernia](https://github.com/HiverniaFrance)** - Hivernia est actuellement en développement, notre but est d'innover dans le monde des mini-jeux.
 ### • 📖 Languages
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
