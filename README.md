@@ -7,7 +7,7 @@
 - 只是一个喜欢《JoJo 的奇妙冒險》和《植物大战僵尸》的傻孩子，想做一些项目，但他没有任何动力。
 
 ### • 💻 Projects
-├ ‎‎‎‎ **[🤖 CAIMEO AI](https://github.com/swipley/CAIMEO)** - A recreation of an urban legend of an artificial intelligence that can be accessed via the deep web.
+├ ‎‎‎‎ **[🤖 CAIMEO AI](https://github.com/swipley/CAIMEO)** - A recreation of an urban legend of an artificial intelligence.
 </br>
 ├ ‎‎‎‎ **[🌱 Plants vs. Zombies Decompilation](https://github.com/PvZDecomp)** - A Plants vs. Zombies Decompilation with multiples versions.
 </br>
