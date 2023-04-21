@@ -1,4 +1,4 @@
-<img align="left" alt="BANNER" width="1000px" height="250px" src="https://cdn.discordapp.com/banners/723280830767562924/a_ef4ec9e67f643dda9ca754bd4a287a61?size=4096"/>
+<img align="left" alt="BANNER" width="750px" height="250px" src="https://cdn.discordapp.com/banners/723280830767562924/a_ef4ec9e67f643dda9ca754bd4a287a61?size=4096"/>
 
 #
 
