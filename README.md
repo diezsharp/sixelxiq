@@ -1,5 +1,3 @@
-<img align="left" alt="BANNER" width="1500px" height="300px" src="https://cdn.discordapp.com/banners/723280830767562924/a_ef4ec9e67f643dda9ca754bd4a287a61?size=4096"/>
-
 #
 
 **`swipley [Developer/Editor/PvZ Player]`**
@@ -7,11 +5,11 @@
 - 只是一个喜欢《JoJo 的奇妙冒險》和《植物大战僵尸》的傻孩子，想做一些项目，但他没有任何动力。
 
 ### • 💻 Projects
+├ ‎‎‎‎ **[🧢 My Dreams](https://github.com/swipley/MyDreamsSM64)** - A SM64 Rom hack with my nightmare I dreamed.
+</br>
 ├ ‎‎‎‎ **[🤖 CAIMEO AI](https://github.com/swipley/CAIMEO)** - A recreation of an urban legend of an artificial intelligence.
 </br>
-├ ‎‎‎‎ **[🌱 Plants vs. Zombies Decompilation](https://github.com/PvZDecomp)** - A Plants vs. Zombies Decompilation with multiples versions.
-</br>
-└ ‎‎‎‎ **[❄️ Hivernia](https://github.com/HiverniaFrance)** - Hivernia est actuellement en développement, notre but est d'innover dans le monde des mini-jeux.
+└ ‎‎‎‎ **[🌱 Plants vs. Zombies Decompilation](https://github.com/PvZDecomp)** - A Plants vs. Zombies Decompilation with multiples versions.
 ### • 📖 Languages
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
 <img align="left" alt="C#" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
