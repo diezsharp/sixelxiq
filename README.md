@@ -1,6 +1,6 @@
 #
 
-**`swipley [Developer/Editor/PvZ Player]`**
+**`sixelxiq [Developer/Editor/PvZ Player]`**
 
 - 只是一个喜欢《JoJo 的奇妙冒險》和《植物大战僵尸》的傻孩子，想做一些项目，但他没有任何动力。
 
